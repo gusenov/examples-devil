@@ -13,3 +13,4 @@
 - [Простой пример загруки PNG-изображения](simple-load)
 - [Загрузка PNG-файла в CMake-проекте с build type = Release](examples-devil/cmake-release)
 - [Загрузка PNG-файла в Xcode-проекте](LoadPNG)
+- [Установка цветных пикселей](draw-colors)
