@@ -10,4 +10,5 @@
 
 Примеры:
 
+- [Простой пример загруки PNG-изображения](simple-load)
 - [Загрузка PNG-файла в CMake-проекте с build type = Release](examples-devil/cmake-release)
