@@ -15,3 +15,5 @@
 - [Загрузка PNG-файла в Xcode-проекте](LoadPNG)
 - [Установка цветных пикселей](draw-colors)
 - [Рисование круга](draw-circle)
+- [Анимация круга](circle-animation-gif)
+
